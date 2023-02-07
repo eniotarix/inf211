@@ -1,0 +1,6 @@
+.settings
+
+# Project exclude paths
+/dev/cabinet_recrutement/cabinet_recrutement-ear/target/
+/dev/cabinet_recrutement/cabinet_recrutement-ejb/target/
+/dev/cabinet_recrutement/cabinet_recrutement-web/target/

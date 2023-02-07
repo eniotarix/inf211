@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="cabinet_recrutement-ejb:ejb">
+    <output-path>$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement-ejb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cabinet_recrutement-ejb</module>
+        <packaging>ejb</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cabinet_recrutement-ejb.jar">
+      <element id="artifact" artifact-name="cabinet_recrutement-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

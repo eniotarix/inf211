@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="cabinet_recrutement-ear:ear">
+    <output-path>$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement-ear/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cabinet_recrutement-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cabinet_recrutement-ear.ear">
+      <element id="artifact" artifact-name="cabinet_recrutement-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

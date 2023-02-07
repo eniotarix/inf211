@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement.iml" filepath="$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement-ear/cabinet_recrutement-ear.iml" filepath="$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement-ear/cabinet_recrutement-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement-ejb/cabinet_recrutement-ejb.iml" filepath="$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement-ejb/cabinet_recrutement-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement-web/cabinet_recrutement-web.iml" filepath="$PROJECT_DIR$/dev/cabinet_recrutement/cabinet_recrutement-web/cabinet_recrutement-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/inf211.iml" filepath="$PROJECT_DIR$/.idea/inf211.iml" />
+    </modules>
+  </component>
+</project>
